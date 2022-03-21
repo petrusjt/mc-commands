@@ -1,7 +1,7 @@
-#### Sietség
+### Sietség
 
 ```
 /effect give <játékos neve> minecraft:haste <időtartam> [szint]
 ```
 
-Maximális szint: 2
+#![../maximum_level_255.md]!#
