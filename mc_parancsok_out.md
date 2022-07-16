@@ -75,5 +75,5 @@ author: petrusjt
 ### Tűzállóság
 
 ```
-/effect give <játékos neve> minecraft:fire_resistance <időtartam>
+/effect give <játékos neve> minecraft:fire_resistance <időtartam> [szint]
 ```

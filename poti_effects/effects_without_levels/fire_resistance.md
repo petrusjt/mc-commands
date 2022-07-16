@@ -1,5 +1,1 @@
-### Tűzállóság
-
-```
-/effect give <játékos neve> minecraft:fire_resistance <időtartam>
-```
+#![template.md --- Tűzállóság fire_resistance]!#
