@@ -1,1 +1,0 @@
-#![template.md --- Erő strength]!#

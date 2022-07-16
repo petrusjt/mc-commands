@@ -1,1 +1,0 @@
-#![template.md --- Bányászfáradtság mining_fatigue]!#

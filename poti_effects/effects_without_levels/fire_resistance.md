@@ -1,1 +1,0 @@
-#![template.md --- Tűzállóság fire_resistance]!#

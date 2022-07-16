@@ -1,1 +1,0 @@
-#![template.md --- Lassúság slowness]!#

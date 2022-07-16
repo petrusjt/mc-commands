@@ -1,13 +1,13 @@
 ## Varázsital effektek szintekkel
 
-#![effects_with_levels/speed.md]!#
+#![template_levels.md --- Gyorsaság speed]!#
 
-#![effects_with_levels/haste.md]!#
+#![template_levels.md --- Sietség haste]!#
 
-#![effects_with_levels/slowness.md]!#
+#![template_levels.md --- Lassúság slowness]!#
 
-#![effects_with_levels/mining_fatigue.md]!#
+#![template_levels.md --- Bányászfáradtság mining_fatigue]!#
 
-#![effects_with_levels/strength.md]!#
+#![template_levels.md --- Erő strength]!#
 
-#![effects_with_levels/jump_boost.md]!#
+#![template_levels.md --- Magasugrás jump_boost]!#

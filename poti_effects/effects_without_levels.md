@@ -2,6 +2,6 @@
 
 **Megjegyzés:** A szintet meg lehet adni ezeknél is, de semmilyen hatása nincs.
 
-#![effects_without_levels/nausea.md]!#
+#![template_no_levels.md --- Szédülés nausea]!#
 
-#![effects_without_levels/fire_resistance.md]!#
+#![template_no_levels.md --- Tűzállóság fire_resistance]!#
